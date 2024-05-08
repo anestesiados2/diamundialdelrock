@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to right, #a31616, #981515, #8c1414, #811313, #761212, #761212, #761212, #761212, #811313, #8c1414, #981515, #a31616);
+}
+#img{
+    width: 5px;
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    opacity: 50%;
+}
+#Titles{
+    color:rgb(244, 255, 195);
+    padding-bottom: 100px;
+}
+#LeftText{
+    position: absolute;
+    top: 50%;
+    margin: 100px;
+    margin-right: 900px;
+    margin-top: -100px;
+    padding: auto;
+    border-width: 5px;
+    border-image: linear-gradient(to right, rgb(255, 78, 78), rgb(109, 36, 36)) 1;
+    border-style: solid;
+    background-color: rgb(000 000 000 / 25%)
+}
+#RightText{
+    position: absolute;
+    top: 50%;
+    margin: 100px;
+    margin-left: 900px;
+    margin-top: -100px;
+    padding: auto;
+    border-width: 5px;
+    border-image: linear-gradient(to left, rgb(255, 78, 78), rgb(109, 36, 36)) 1;
+    border-style: solid;
+    background-color: rgb(000 000 000 / 25%)
+}
+#P1{
+    color: rgb(244, 255, 195);
+    width: 200px;
+    height: 100px;
+}
+#Textos{
+    color: rgb(146, 161, 173);
+}
+#TextoR{
+    color: rgb(0, 0, 0);
+}
+#links{
+    color: white;
+}
+#derecho{
+    color: white;    
+    margin-top: 300px;
+}
