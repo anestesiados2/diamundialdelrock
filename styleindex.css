@@ -1,6 +1,13 @@
 body{
     background-image: linear-gradient(to right, #a31616, #981515, #8c1414, #811313, #761212, #761212, #761212, #761212, #811313, #8c1414, #981515, #a31616);
 }
+#JavaS{
+    padding-top: 13%;
+}
+#PagJS{
+    width: 50%;
+    height: 390px;
+}
 #img{
     width: 5px;
     height: 100px;
@@ -52,5 +59,5 @@ body{
 }
 #derecho{
     color: white;    
-    margin-top: 300px;
+    margin-top: 5%;
 }
